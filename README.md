@@ -2,7 +2,7 @@
 
 ## Running my Code
 
-My code is built to run in Command Prompt or Terminal. To run the program, download the provided files to a folder, navigate to it using the terminal and enter 'java Main'
+My code is built to run in Command Prompt or Terminal. To run the program, download the provided .class files to a folder, navigate to it using the terminal and enter 'java Main'
 
 ## My Approach
 
